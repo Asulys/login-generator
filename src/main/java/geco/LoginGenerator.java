@@ -12,7 +12,7 @@ public class LoginGenerator {
 
     /**
      * Construit un login generator
-     * @param loginService le service de login
+     * @param loginService le service  login
      */
     public LoginGenerator(LoginService loginService) {
         this.loginService = loginService;
